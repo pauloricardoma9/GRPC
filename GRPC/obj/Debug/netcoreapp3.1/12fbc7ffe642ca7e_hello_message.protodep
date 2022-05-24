@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/HelloMessage.cs \
+obj\Debug\netcoreapp3.1/HelloMessageGrpc.cs: Protos/hello_message.proto
