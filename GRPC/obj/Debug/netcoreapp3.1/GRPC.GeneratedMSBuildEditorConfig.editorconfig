@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GRPC
+build_property.ProjectDir = C:\Dev\GRPC\GRPC\
